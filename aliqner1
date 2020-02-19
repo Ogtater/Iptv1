@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0,U!Premium ATV
+#EXTGRP:Հայկական
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,Armenia Comedy ATV
+#EXTGRP:Հայկական
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,Cineman ATV
+#EXTGRP:Հայկական
