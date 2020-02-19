@@ -1,9 +1,203 @@
 #EXTM3U
-#EXTINF:0,#EXTINF:-1,Shant Premium
-http://iptv.armenian-channel.ru:25461/live/ARMENIA/CHANNEL/53.ts
-#EXTINF:0,#EXTINF:-1,Shant Serial HD
-http://iptv.armenian-channel.ru:25461/live/ARMENIA/CHANNEL/54.ts
-#EXTINF:0,#EXTINF:-1,Shant Music
-http://iptv.armenian-channel.ru:25461/live/ARMENIA/CHANNEL/55.ts
-#EXTINF:0,#EXTINF:-1,Shant News
-http://iptv.armenian-channel.ru:25461/live/ARMENIA/CHANNEL/56.ts
+#EXTINF:-1,H1 Satellite
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/66.ts
+#EXTINF:-1,H1 Armenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/67.ts
+#EXTINF:-1,H1USA
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/124.ts
+#EXTINF:-1,H2 Armenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/68.ts
+#EXTINF:-1,Nor Hayastan
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/69.ts
+#EXTINF:-1,Armenia TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/70.ts
+#EXTINF:-1,Armenia TV HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/71.ts
+#EXTINF:-1,Ararat
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/72.ts
+#EXTINF:-1,ATV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/73.ts
+#EXTINF:-1,AR
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/74.ts
+#EXTINF:-1,Arm News
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/75.ts
+#EXTINF:-1,Kentron
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/76.ts
+#EXTINF:-1,Kentron TV International
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/165.ts
+#EXTINF:-1,Kotayk TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/177.ts
+#EXTINF:-1,Erkir Media
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/77.ts
+#EXTINF:-1,Shoghakat
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/78.ts
+#EXTINF:-1,DAR 21
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/79.ts
+#EXTINF:-1,Astx TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/125.ts
+#EXTINF:-1,Shant
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/80.ts
+#EXTINF:-1,Shant Premium
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/81.ts
+#EXTINF:-1,Shant News
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/82.ts
+#EXTINF:-1,Shant Serial
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/83.ts
+#EXTINF:-1,Shant Kids
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/84.ts
+#EXTINF:-1,Shant Music
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/85.ts
+#EXTINF:-1,PanArmenian
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/86.ts
+#EXTINF:-1,USArmenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/87.ts
+#EXTINF:-1,Horizon
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/88.ts
+#EXTINF:-1,Arm News 24
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/89.ts
+#EXTINF:-1,Kinoman
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/90.ts
+#EXTINF:-1,Filmzone
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/91.ts
+#EXTINF:-1,Bazmots
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/92.ts
+#EXTINF:-1,Hahalik
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/93.ts
+#EXTINF:-1,Hay TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/94.ts
+#EXTINF:-1,Muzzone
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/107.ts
+#EXTINF:-1,Fitness
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/108.ts
+#EXTINF:-1,Tava TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/109.ts
+#EXTINF:-1,U! Premium Armenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/118.ts
+#EXTINF:-1,Cineman
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/119.ts
+#EXTINF:-1,Comedy
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/120.ts
+#EXTINF:-1,Hay Kino
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/121.ts
+#EXTINF:-1,Jan TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/122.ts
+#EXTINF:-1,Tun-tunik
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/123.ts
+#EXTINF:-1,Song TV Armenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/95.ts
+#EXTINF:-1,ArmMusic
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/174.ts
+#EXTINF:-1,Armount TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/96.ts
+#EXTINF:-1,TBN Armenia
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/97.ts
+#EXTINF:-1,ARTN
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/98.ts
+#EXTINF:-1,Tsayg
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/99.ts
+#EXTINF:-1,Delta TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/127.ts
+#EXTINF:-1,Luys
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/100.ts
+#EXTINF:-1,Hye TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/166.ts
+#EXTINF:-1,AABC
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/126.ts
+#EXTINF:-1,ICFN
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/175.ts
+#EXTINF:-1,1TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/101.ts
+#EXTINF:-1,Rustavi 2
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/102.ts
+#EXTINF:-1,Imedi
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/103.ts
+#EXTINF:-1,TV4 HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/135.ts
+#EXTINF:-1,Maestro
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/138.ts
+#EXTINF:-1,Palitra News
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/104.ts
+#EXTINF:-1,Mtavari Arxi
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/139.ts
+#EXTINF:-1,Adjara TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/105.ts
+#EXTINF:-1,Marao
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/106.ts
+#EXTINF:-1,Enki Benki
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/136.ts
+#EXTINF:-1,Lalish TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/110.ts
+#EXTINF:-1,Ezidxan TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/111.ts
+#EXTINF:-1,Ezidxan TV Musik
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/112.ts
+#EXTINF:-1,Rudaw HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/113.ts
+#EXTINF:-1,Tajikistan HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/114.ts
+#EXTINF:-1,Safina HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/115.ts
+#EXTINF:-1,Sinamo HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/116.ts
+#EXTINF:-1,Jahonnamo
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/117.ts
+#EXTINF:-1,Altyn Asyr
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/142.ts
+#EXTINF:-1,Yaslyk
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/143.ts
+#EXTINF:-1,Miras
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/144.ts
+#EXTINF:-1,Turkmen Sport
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/145.ts
+#EXTINF:-1,Turkmen Owazy
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/146.ts
+#EXTINF:-1,Asgabat
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/147.ts
+#EXTINF:-1,Turkmenistan
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/148.ts
+#EXTINF:-1,TRT1 HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/156.ts
+#EXTINF:-1,TRT WORLD HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/155.ts
+#EXTINF:-1,TRT TURK HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/154.ts
+#EXTINF:-1,TRT SPOR HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/153.ts
+#EXTINF:-1,TRT KURDI HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/152.ts
+#EXTINF:-1,TRT HABER HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/151.ts
+#EXTINF:-1,TRT COCUK HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/150.ts
+#EXTINF:-1,TRT BELGESEL HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/149.ts
+#EXTINF:-1,Az TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/160.ts
+#EXTINF:-1,Inter AZ
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/163.ts
+#EXTINF:-1,ATV HD
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/157.ts
+#EXTINF:-1,ARB
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/158.ts
+#EXTINF:-1,ARB Gunesh
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/159.ts
+#EXTINF:-1,Xazar
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/164.ts
+#EXTINF:-1,Idman
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/162.ts
+#EXTINF:-1,Ictimai
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/161.ts
+#EXTINF:-1,Toshkent
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/167.ts
+#EXTINF:-1,Ozbekiston
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/173.ts
+#EXTINF:-1,Zor TV
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/172.ts
+#EXTINF:-1,Mahalla
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/170.ts
+#EXTINF:-1,Oilaviy
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/168.ts
+#EXTINF:-1,Navo
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/171.ts
+#EXTINF:-1,Bolajon
+http://tviptv.iptv-channel.ru:8000/live/AYvVbBgwUc/xzeASulY4n/169.ts
