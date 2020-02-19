@@ -1,22 +1,355 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:58070
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133381000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133391000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133401000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133411000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133421000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133431000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133441000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133451000.ts
-#EXTINF:10.000000,
-http://93.189.56.66/iptv/FW9M3AZBKKLBU6/604/1582133461000.ts
+#EXTM3U Albdroid TV
+#EXTINF:-1 tvg-ID="" tvg-name="Первый канал" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Первый канал
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Россия 1" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Россия 1
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Россия 24" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Россия 24
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="НТВ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",НТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Пятый канал" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Пятый канал
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТВ3" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТВ3
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТВ Центр" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТВ Центр
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Рен ТВ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Рен ТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Звезда" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Звезда
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Домашний" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Домашний
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Пятница" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Пятница
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТНТ" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТНТ4" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",ТНТ4
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="СТС" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="СТС Love" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",СТС Love
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Супер" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Супер
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="РБК" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",РБК
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Евроновости" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Евроновости
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV1000" tvg-logo="" group-title="КИНО",TV1000
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV1000 Action" tvg-logo="" group-title="КИНО",TV1000 Action
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV1000 Русское Кино" tvg-logo="" group-title="КИНО",TV1000 Русское Кино
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP Premiere" tvg-logo="" group-title="КИНО",VIP Premiere
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP Megahit" tvg-logo="" group-title="КИНО",VIP Megahit
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VIP Comedy" tvg-logo="" group-title="КИНО",VIP Comedy
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="КИНО",Дом Кино Премиум HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Шокирующее HD" tvg-logo="" group-title="КИНО",Шокирующее HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Комедийное HD" tvg-logo="" group-title="КИНО",Комедийное HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Киноужас" tvg-logo="" group-title="КИНО",Киноужас
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Кинохит" tvg-logo="" group-title="КИНО",Кинохит
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Киносемья" tvg-logo="" group-title="КИНО",Киносемья
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Киносвидание" tvg-logo="" group-title="КИНО",Киносвидание
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Кинопремьера" tvg-logo="" group-title="КИНО",Кинопремьера
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Киномикс" tvg-logo="" group-title="КИНО",Киномикс
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Кинокомедия" tvg-logo="" group-title="КИНО",Кинокомедия
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Индийское кино" tvg-logo="" group-title="КИНО",Индийское кино
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Мужское кино" tvg-logo="" group-title="КИНО",Мужское кино
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Кино ТВ" tvg-logo="" group-title="КИНО",Кино ТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Иллюзион" tvg-logo="" group-title="КИНО",Иллюзион
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Русский Иллюзион" tvg-logo="" group-title="КИНО",Русский Иллюзион
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Остросюжетное HD" tvg-logo="" group-title="КИНО",Остросюжетное HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Еврокино" tvg-logo="" group-title="КИНО",Еврокино
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="НСТ" tvg-logo="" group-title="КИНО",НСТ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hollywood HD" tvg-logo="" group-title="КИНО",Hollywood HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zee TV" tvg-logo="" group-title="КИНО",Zee TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat History" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat Explore" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Viasat Nature" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/176.ts
+#EXTINF:-1 tvg-ID="" tvg-name="В Мире Животных HD" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Наука 2.0" tvg-logo="" group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! ТВ" tvg-logo="" group-title="СПОРТ",Матч! ТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Игра" tvg-logo="" group-title="СПОРТ",Матч! Игра
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Арена" tvg-logo="" group-title="СПОРТ",Матч! Арена
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Страна" tvg-logo="" group-title="СПОРТ",Матч! Страна
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Боец" tvg-logo="" group-title="СПОРТ",Матч! Боец
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="СПОРТ",Матч! Футбол 1
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="СПОРТ",Матч! Футбол 2
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="СПОРТ",Матч! Футбол 3
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Матч! Премьер" tvg-logo="" group-title="СПОРТ",Матч! Премьер
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="" group-title="СПОРТ",Eurosport 1
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="СПОРТ",Eurosport 2
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Бокс ТВ" tvg-logo="" group-title="СПОРТ",Бокс ТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="КХЛ" tvg-logo="" group-title="СПОРТ",КХЛ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="ДЕТСКИЙ",Cartoon Network
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nickelodeon" tvg-logo="" group-title="ДЕТСКИЙ",Nickelodeon
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="ДЕТСКИЙ",Disney Channel
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Карусель" tvg-logo="" group-title="ДЕТСКИЙ",Карусель
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Детский" tvg-logo="" group-title="ДЕТСКИЙ",Детский
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="МУЗ ТВ" tvg-logo="" group-title="МУЗЫКА",МУЗ ТВ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 Classic" tvg-logo="" group-title="МУЗЫКА",VH1 Classic
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bridge TV Hits" tvg-logo="" group-title="МУЗЫКА",Bridge TV Hits
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ТНТ Music" tvg-logo="" group-title="МУЗЫКА",ТНТ Music
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RU.TV" tvg-logo="" group-title="МУЗЫКА",RU.TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H1 Satellite" tvg-logo="" group-title="АРМЕНИЯ",H1 Satellite
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H1 Armenia" tvg-logo="http://epg.it999.ru/img/2060.png" group-title="АРМЕНИЯ",H1 Armenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H1USA" tvg-logo="" group-title="АРМЕНИЯ",H1USA
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2 Armenia" tvg-logo="http://epg.it999.ru/img/2062.png" group-title="АРМЕНИЯ",H2 Armenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nor Hayastan" tvg-logo="" group-title="АРМЕНИЯ",Nor Hayastan
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Armenia TV" tvg-logo="http://epg.it999.ru/img/2072.png" group-title="АРМЕНИЯ",Armenia TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Armenia TV HD" tvg-logo="http://epg.it999.ru/img/2064.png" group-title="АРМЕНИЯ",Armenia TV HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ararat" tvg-logo="http://epg.it999.ru/img/2372.png" group-title="АРМЕНИЯ",Ararat
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATV" tvg-logo="http://epg.it999.ru/img/2067.png" group-title="АРМЕНИЯ",ATV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AR" tvg-logo="http://epg.it999.ru/img/2068.png" group-title="АРМЕНИЯ",AR
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arm News" tvg-logo="http://epg.it999.ru/img/2069.png" group-title="АРМЕНИЯ",Arm News
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kentron" tvg-logo="http://epg.it999.ru/img/2065.png" group-title="АРМЕНИЯ",Kentron
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kentron TV International" tvg-logo="" group-title="АРМЕНИЯ",Kentron TV International
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kotayk TV" tvg-logo="" group-title="АРМЕНИЯ",Kotayk TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/177.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Erkir Media" tvg-logo="http://epg.it999.ru/img/2066.png" group-title="АРМЕНИЯ",Erkir Media
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shoghakat" tvg-logo="http://epg.it999.ru/img/2071.png" group-title="АРМЕНИЯ",Shoghakat
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAR 21" tvg-logo="http://epg.it999.ru/img/2061.png" group-title="АРМЕНИЯ",DAR 21
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Astx TV" tvg-logo="" group-title="АРМЕНИЯ",Astx TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant" tvg-logo="http://epg.it999.ru/img/2063.png" group-title="АРМЕНИЯ",Shant
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant Premium" tvg-logo="" group-title="АРМЕНИЯ",Shant Premium
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant News" tvg-logo="" group-title="АРМЕНИЯ",Shant News
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant Serial" tvg-logo="" group-title="АРМЕНИЯ",Shant Serial
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant Kids" tvg-logo="" group-title="АРМЕНИЯ",Shant Kids
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Shant Music" tvg-logo="" group-title="АРМЕНИЯ",Shant Music
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PanArmenian" tvg-logo="http://epg.it999.ru/img/2075.png" group-title="АРМЕНИЯ",PanArmenian
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="USArmenia" tvg-logo="" group-title="АРМЕНИЯ",USArmenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/87.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Horizon" tvg-logo="" group-title="АРМЕНИЯ",Horizon
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arm News 24" tvg-logo="" group-title="АРМЕНИЯ",Arm News 24
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kinoman" tvg-logo="" group-title="АРМЕНИЯ",Kinoman
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Filmzone" tvg-logo="" group-title="АРМЕНИЯ",Filmzone
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bazmots" tvg-logo="" group-title="АРМЕНИЯ",Bazmots
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hahalik" tvg-logo="" group-title="АРМЕНИЯ",Hahalik
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hay TV" tvg-logo="" group-title="АРМЕНИЯ",Hay TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Muzzone" tvg-logo="" group-title="АРМЕНИЯ",Muzzone
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fitness" tvg-logo="" group-title="АРМЕНИЯ",Fitness
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tava TV" tvg-logo="" group-title="АРМЕНИЯ",Tava TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="U! Premium Armenia" tvg-logo="" group-title="АРМЕНИЯ",U! Premium Armenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cineman" tvg-logo="" group-title="АРМЕНИЯ",Cineman
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Comedy" tvg-logo="" group-title="АРМЕНИЯ",Comedy
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hay Kino" tvg-logo="" group-title="АРМЕНИЯ",Hay Kino
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jan TV" tvg-logo="" group-title="АРМЕНИЯ",Jan TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tun-tunik" tvg-logo="" group-title="АРМЕНИЯ",Tun-tunik
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Song TV Armenia" tvg-logo="" group-title="АРМЕНИЯ",Song TV Armenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ArmMusic" tvg-logo="" group-title="АРМЕНИЯ",ArmMusic
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/174.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Armount TV" tvg-logo="" group-title="АРМЕНИЯ",Armount TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBN Armenia" tvg-logo="" group-title="АРМЕНИЯ",TBN Armenia
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARTN" tvg-logo="" group-title="АРМЕНИЯ",ARTN
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tsayg" tvg-logo="" group-title="АРМЕНИЯ",Tsayg
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Delta TV" tvg-logo="" group-title="АРМЕНИЯ",Delta TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Luys" tvg-logo="" group-title="АРМЕНИЯ",Luys
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hye TV" tvg-logo="" group-title="АРМЕНИЯ",Hye TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/166.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AABC" tvg-logo="" group-title="АРМЕНИЯ",AABC
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ICFN" tvg-logo="" group-title="АРМЕНИЯ",ICFN
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="1TV" tvg-logo="" group-title="ГРУЗИЯ",1TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rustavi 2" tvg-logo="" group-title="ГРУЗИЯ",Rustavi 2
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Imedi" tvg-logo="" group-title="ГРУЗИЯ",Imedi
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV4 HD" tvg-logo="" group-title="ГРУЗИЯ",TV4 HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Maestro" tvg-logo="" group-title="ГРУЗИЯ",Maestro
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Palitra News" tvg-logo="" group-title="ГРУЗИЯ",Palitra News
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mtavari Arxi" tvg-logo="" group-title="ГРУЗИЯ",Mtavari Arxi
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Adjara TV" tvg-logo="" group-title="ГРУЗИЯ",Adjara TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Marao" tvg-logo="" group-title="ГРУЗИЯ",Marao
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Enki Benki" tvg-logo="" group-title="ГРУЗИЯ",Enki Benki
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lalish TV" tvg-logo="" group-title="EZDI",Lalish TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ezidxan TV" tvg-logo="" group-title="EZDI",Ezidxan TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ezidxan TV Musik" tvg-logo="" group-title="EZDI",Ezidxan TV Musik
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rudaw HD" tvg-logo="" group-title="EZDI",Rudaw HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tajikistan HD" tvg-logo="" group-title="ТАДЖИКИСТАН",Tajikistan HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Safina HD" tvg-logo="" group-title="ТАДЖИКИСТАН",Safina HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sinamo HD" tvg-logo="" group-title="ТАДЖИКИСТАН",Sinamo HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jahonnamo" tvg-logo="" group-title="ТАДЖИКИСТАН",Jahonnamo
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Altyn Asyr" tvg-logo="" group-title="ТУРКМЕНИЯ",Altyn Asyr
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Yaslyk" tvg-logo="" group-title="ТУРКМЕНИЯ",Yaslyk
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Miras" tvg-logo="" group-title="ТУРКМЕНИЯ",Miras
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Turkmen Sport" tvg-logo="" group-title="ТУРКМЕНИЯ",Turkmen Sport
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Turkmen Owazy" tvg-logo="" group-title="ТУРКМЕНИЯ",Turkmen Owazy
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Asgabat" tvg-logo="" group-title="ТУРКМЕНИЯ",Asgabat
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Turkmenistan" tvg-logo="" group-title="ТУРКМЕНИЯ",Turkmenistan
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT1 HD" tvg-logo="" group-title="ТУРЦИЯ",TRT1 HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT WORLD HD" tvg-logo="" group-title="ТУРЦИЯ",TRT WORLD HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT TURK HD" tvg-logo="" group-title="ТУРЦИЯ",TRT TURK HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT SPOR HD" tvg-logo="" group-title="ТУРЦИЯ",TRT SPOR HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT KURDI HD" tvg-logo="" group-title="ТУРЦИЯ",TRT KURDI HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT HABER HD" tvg-logo="" group-title="ТУРЦИЯ",TRT HABER HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT COCUK HD" tvg-logo="" group-title="ТУРЦИЯ",TRT COCUK HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT BELGESEL HD" tvg-logo="" group-title="ТУРЦИЯ",TRT BELGESEL HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Az TV" tvg-logo="" group-title="АЗЕРБАЙДЖАН",Az TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/160.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Inter AZ" tvg-logo="" group-title="АЗЕРБАЙДЖАН",Inter AZ
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATV HD" tvg-logo="" group-title="АЗЕРБАЙДЖАН",ATV HD
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARB" tvg-logo="" group-title="АЗЕРБАЙДЖАН",ARB
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARB Gunesh" tvg-logo="" group-title="АЗЕРБАЙДЖАН",ARB Gunesh
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Xazar" tvg-logo="" group-title="АЗЕРБАЙДЖАН",Xazar
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Idman" tvg-logo="" group-title="АЗЕРБАЙДЖАН",Idman
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/162.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ictimai" tvg-logo="" group-title="АЗЕРБАЙДЖАН",Ictimai
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Toshkent" tvg-logo="" group-title="УЗБЕКИСТАН",Toshkent
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ozbekiston" tvg-logo="" group-title="УЗБЕКИСТАН",Ozbekiston
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/173.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Zor TV" tvg-logo="" group-title="УЗБЕКИСТАН",Zor TV
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Mahalla" tvg-logo="" group-title="УЗБЕКИСТАН",Mahalla
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Oilaviy" tvg-logo="" group-title="УЗБЕКИСТАН",Oilaviy
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Navo" tvg-logo="" group-title="УЗБЕКИСТАН",Navo
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bolajon" tvg-logo="" group-title="УЗБЕКИСТАН",Bolajon
+http://tviptv.iptv-channel.ru:8000/live/xptBn24o3a/GYMQ16IWdZ/169.ts
