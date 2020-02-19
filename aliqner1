@@ -5,5 +5,55 @@ http://ott-cdn.ucom.am/s83/index.m3u8
 #EXTINF:0,Armenia Comedy ATV
 #EXTGRP:Հայկական
 http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0,Cineman ATV
-#EXTGRP:Հայկական
+#EXTINF:0,WDR HD
+#EXTGRP:Deutsch
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
+#EXTINF:0,DAS ERSTE HD
+#EXTGRP:Deutsch
+http://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0,ZDF HD
+#EXTGRP:Deutsch
+http://zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8
+#EXTINF:0,SAT1 HD
+#EXTGRP:Deutsch
+http://wer1.wertvlive.com/w6/video.m3u8
+#EXTINF:0,KIKA HD
+#EXTGRP:Deutsch
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
+#EXTINF:0,PRO 7 HD
+#EXTGRP:Deutsch
+https://wer1.wertvlive.com/w1/video.m3u8
+#EXTINF:0,VOX HD
+#EXTGRP:Deutsch
+http://wer222.wertvlive.com/hls/q3.m3u8
+#EXTINF:0,RTL 2 HD
+#EXTGRP:Deutsch
+https://wer22.wertvlive.com/hls/q2.m3u8
+#EXTINF:0,DMAX HD
+#EXTGRP:Deutsch
+https://wer1.wertvlive.com/w4/video.m3u8
+#EXTINF:0,PHONIX HD
+#EXTGRP:Deutsch
+http://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
+#EXTINF:0,ZDF INFO HD
+#EXTGRP:Deutsch
+http://zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8
+#EXTINF:0,MTV HD
+#EXTGRP:Deutsch
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/master.m3u8
+#EXTINF:0,Sky news HD
+#EXTGRP:Deutsch
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/index.m3u8
+#EXTINF:0,Welt HD
+#EXTGRP:Deutsch
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:0,3 Sat HD
+#EXTGRP:Deutsch
+https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/high/master.m3u8
+#EXTINF:0,Tagesschau HD
+#EXTGRP:Deutsch
+https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:Deutsch
+http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
